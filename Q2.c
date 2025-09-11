@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 
-//Q1. WAP to calculate the area and perimeter of a rectangle based on its length and width
+//Q2. WAP to calculate the area and perimeter of a rectangle based on its length and width
 int main() {
     int length = 2 , width = 4;
     printf("Area of rectangle : %d" , length*width);
